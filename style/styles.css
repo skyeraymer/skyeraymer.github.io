@@ -29,8 +29,8 @@ a:visted {
 .justify{text-align: justify;}
 .bold{font-weight: bold}
 
-.homebg {
-    background-image: url('../images');
+.homeSkye {
+    background-image: url('../images/Cloud_City_Background.jpeg');
     background-position: top right;
 }
 .box1 {
